@@ -38,7 +38,8 @@
                 "url": "/",
                 "altText": "Join us",
                 "style": "secondary",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "github"
             }
         ],
         "styles": {
