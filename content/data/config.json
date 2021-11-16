@@ -37,7 +37,8 @@
                 "label": "Join us",
                 "url": "/",
                 "altText": "Join us",
-                "style": "secondary"
+                "style": "secondary",
+                "showIcon": true
             }
         ],
         "styles": {
