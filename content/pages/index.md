@@ -6,7 +6,7 @@ sections:
     elementId: ''
     colors: colors-a
     title: We do fishing in a different way
-    subtitle: Fresh. Better. Faster
+    subtitle: Is this going to git each time?
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
