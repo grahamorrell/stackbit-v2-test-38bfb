@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: ''
-    colors: colors-a
+    colors: colors-e
     title: We do fishing in a different way
     subtitle: Is this going to git each time?
     text: >-
